@@ -34,6 +34,6 @@ This script lacks the ability to differentiate between furniture placed on the f
 
 This script was created by Gizmo.
 
-## Donate
+## Contact
 
-If you wish to donate, please contact Gizmo#1813 on Discord.
+Gizmo_1813 on Discord.
